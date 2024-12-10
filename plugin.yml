@@ -1,0 +1,7 @@
+---
+name: JoinTitle
+version: 0.0.1
+main: Tatsomi\JoinTitle\Main
+api: 5.22.1
+src-namespace-prefix: Tatsomi\JoinTitle
+...
