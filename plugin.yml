@@ -1,7 +1,11 @@
 ---
 name: JoinTitle
-version: 0.0.1
+version: 0.0.2
 main: Tatsomi\JoinTitle\Main
 api: 5.0.0
 src-namespace-prefix: Tatsomi\JoinTitle
-...
+depend:
+  - FormAPI
+authors:
+  - Tatsumi
+  - Virrus909 (update by Virrus909)
